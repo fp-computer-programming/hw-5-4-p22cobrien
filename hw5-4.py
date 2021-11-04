@@ -13,7 +13,7 @@ print(len('excellent'))
 print('apple' in 'Pineapple')
 
 # Question 5
-# if "Peach" > "pear"
+print("Peach" > "pear")
 
 # Question 6
 print("x" * 100)
@@ -22,7 +22,7 @@ print("x" * 100)
 str(54321)
 
 # Question 8
-print("p" in "Pineapple")
+print("p" not in "Pineapple")
 
 # Question 9
 print("\"Livin\' On a Prayer\" is my friend\'s favorite song.")
